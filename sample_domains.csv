@@ -1,0 +1,6 @@
+nama_opd,domain,subdomain,status,backup_date,completion_date,kecamatan,ip_address,source_type
+Dinas Komunikasi dan Informatika,diskominfo.purwakartakab.go.id,portal,aktif,2024-01-15,2024-01-20,TEGALWARU,216.244.94.195,INDOGLOB
+Sekretariat Daerah,setda.purwakartakab.go.id,www,aktif,2024-01-10,2024-01-15,TEGALWARU,216.244.94.164,INDOGLOB
+Dinas Pendidikan,disdik.purwakartakab.go.id,,tidak aktif,2024-01-05,,TEGALWARU,103.133.27.164,LOCAL
+Dinas Kesehatan,dinkes.purwakartakab.go.id,portal,aktif,2024-01-12,2024-01-18,TEGALWARU,216.244.94.195,INDOGLOB
+Dinas Pekerjaan Umum,pupr.purwakartakab.go.id,www,tidak aktif,2024-01-08,,TEGALWARU,103.133.26.212,LOCAL

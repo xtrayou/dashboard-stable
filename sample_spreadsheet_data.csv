@@ -1,0 +1,41 @@
+nama_opd,domain,subdomain,status,backup_date,completion_date,kecamatan,ip_address,source_type
+Dinas Komunikasi dan Informatika,diskominfo.purwakartakab.go.id,portal,aktif,2024-01-15,2024-01-20,TEGALWARU,216.244.94.195,INDOGLOB
+Dinas Pendidikan,disdik.purwakartakab.go.id,ppdb,aktif,2024-02-10,2024-02-15,PURWAKARTA,103.133.27.164,LOCAL
+Dinas Kesehatan,dinkes.purwakartakab.go.id,puskesmas,aktif,2024-01-20,2024-01-25,BABAKANCIKAO,216.244.94.184,INDOGLOB
+Badan Perencanaan Pembangunan Daerah,bappeda.purwakartakab.go.id,esakip,aktif,2024-03-05,2024-03-10,TEGALWARU,103.133.25.212,LOCAL
+Dinas Pekerjaan Umum,dpupr.purwakartakab.go.id,sipjaki,tidak aktif,2024-01-10,2024-01-15,JATILUHUR,103.133.27.184,LOCAL
+Badan Pendapatan Daerah,bapenda.purwakartakab.go.id,pajak,aktif,2024-02-20,2024-02-25,PURWAKARTA,216.244.94.165,INDOGLOB
+Dinas Sosial,dinsos.purwakartakab.go.id,dtks,aktif,2024-03-15,2024-03-20,CAMPAKA,103.133.28.195,LOCAL
+Dinas Pertanian,distan.purwakartakab.go.id,simluhtan,aktif,2024-01-25,2024-01-30,PLERED,216.244.94.175,INDOGLOB
+Dinas Perindustrian dan Perdagangan,disperindag.purwakartakab.go.id,sirup,tidak aktif,2024-02-05,2024-02-10,SUKATANI,103.133.29.164,LOCAL
+Badan Kepegawaian Daerah,bkd.purwakartakab.go.id,simpeg,aktif,2024-03-01,2024-03-05,TEGALWARU,216.244.94.155,INDOGLOB
+Dinas Perhubungan,dishub.purwakartakab.go.id,parkir,aktif,2024-01-30,2024-02-05,PURWAKARTA,103.133.27.145,LOCAL
+Dinas Lingkungan Hidup,dlh.purwakartakab.go.id,limbah,aktif,2024-02-15,2024-02-20,BABAKANCIKAO,216.244.94.145,INDOGLOB
+Dinas Kependudukan dan Pencatatan Sipil,disdukcapil.purwakartakab.go.id,ektp,aktif,2024-03-10,2024-03-15,TEGALWARU,103.133.26.195,LOCAL
+Dinas Pemberdayaan Masyarakat,dpmd.purwakartakab.go.id,bumdes,aktif,2024-01-18,2024-01-23,CAMPAKA,216.244.94.135,INDOGLOB
+Dinas Kebudayaan dan Pariwisata,disbudpar.purwakartakab.go.id,destinasi,tidak aktif,2024-02-25,2024-03-01,PLERED,103.133.27.125,LOCAL
+Badan Penanggulangan Bencana Daerah,bpbd.purwakartakab.go.id,siaga,aktif,2024-03-20,2024-03-25,JATILUHUR,216.244.94.125,INDOGLOB
+Dinas Ketahanan Pangan,dkp.purwakartakab.go.id,pangan,aktif,2024-01-12,2024-01-17,SUKATANI,103.133.28.115,LOCAL
+Satuan Polisi Pamong Praja,satpol-pp.purwakartakab.go.id,pengawasan,aktif,2024-02-18,2024-02-23,PURWAKARTA,216.244.94.115,INDOGLOB
+Inspektorat Daerah,inspektorat.purwakartakab.go.id,audit,aktif,2024-03-12,2024-03-17,TEGALWARU,103.133.29.105,LOCAL
+Dinas Perikanan,dkp-perikanan.purwakartakab.go.id,budidaya,aktif,2024-01-22,2024-01-27,CAMPAKA,216.244.94.105,INDOGLOB
+Sekretariat Daerah,setda.purwakartakab.go.id,dokumen,aktif,2024-02-08,2024-02-13,PURWAKARTA,103.133.27.95,LOCAL
+Sekretariat DPRD,setwan.purwakartakab.go.id,legislasi,tidak aktif,2024-03-18,2024-03-23,TEGALWARU,216.244.94.95,INDOGLOB
+Dinas Perpustakaan dan Kearsipan,dispusip.purwakartakab.go.id,katalog,aktif,2024-01-28,2024-02-02,BABAKANCIKAO,103.133.28.85,LOCAL
+Badan Keuangan Daerah,bkd-keuangan.purwakartakab.go.id,simda,aktif,2024-02-22,2024-02-27,PURWAKARTA,216.244.94.85,INDOGLOB
+Kecamatan Tegalwaru,tegalwaru.purwakartakab.go.id,layanan,aktif,2024-03-08,2024-03-13,TEGALWARU,103.133.29.75,LOCAL
+Kecamatan Purwakarta,purwakarta.purwakartakab.go.id,administrasi,aktif,2024-01-16,2024-01-21,PURWAKARTA,216.244.94.75,INDOGLOB
+Kecamatan Babakancikao,babakancikao.purwakartakab.go.id,pelayanan,aktif,2024-02-12,2024-02-17,BABAKANCIKAO,103.133.27.65,LOCAL
+Kecamatan Jatiluhur,jatiluhur.purwakartakab.go.id,informasi,tidak aktif,2024-03-14,2024-03-19,JATILUHUR,216.244.94.65,INDOGLOB
+Kecamatan Campaka,campaka.purwakartakab.go.id,data,aktif,2024-01-24,2024-01-29,CAMPAKA,103.133.28.55,LOCAL
+Kecamatan Plered,plered.purwakartakab.go.id,publikasi,aktif,2024-02-16,2024-02-21,PLERED,216.244.94.55,INDOGLOB
+Kecamatan Sukatani,sukatani.purwakartakab.go.id,berita,aktif,2024-03-06,2024-03-11,SUKATANI,103.133.29.45,LOCAL
+Dinas Komunikasi dan Informatika,diskominfo.purwakartakab.go.id,helpdesk,aktif,2024-01-19,2024-01-24,TEGALWARU,216.244.94.45,INDOGLOB
+Dinas Pendidikan,disdik.purwakartakab.go.id,elearning,aktif,2024-02-14,2024-02-19,PURWAKARTA,103.133.27.35,LOCAL
+Dinas Kesehatan,dinkes.purwakartakab.go.id,rekammedis,aktif,2024-03-16,2024-03-21,BABAKANCIKAO,216.244.94.35,INDOGLOB
+Badan Perencanaan Pembangunan Daerah,bappeda.purwakartakab.go.id,musrenbang,tidak aktif,2024-01-26,2024-01-31,TEGALWARU,103.133.28.25,LOCAL
+Dinas Pekerjaan Umum,dpupr.purwakartakab.go.id,infrastruktur,aktif,2024-02-24,2024-03-01,JATILUHUR,216.244.94.25,INDOGLOB
+Badan Pendapatan Daerah,bapenda.purwakartakab.go.id,retribusi,aktif,2024-03-22,2024-03-27,PURWAKARTA,103.133.29.15,LOCAL
+Dinas Sosial,dinsos.purwakartakab.go.id,bansos,aktif,2024-01-14,2024-01-19,CAMPAKA,216.244.94.15,INDOGLOB
+Dinas Pertanian,distan.purwakartakab.go.id,komoditas,aktif,2024-02-11,2024-02-16,PLERED,103.133.27.5,LOCAL
+Dinas Perindustrian dan Perdagangan,disperindag.purwakartakab.go.id,perizinan,aktif,2024-03-04,2024-03-09,SUKATANI,216.244.94.5,INDOGLOB
